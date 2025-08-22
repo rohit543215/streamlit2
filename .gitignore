@@ -1,0 +1,11 @@
+# Ignore environment files
+.env
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit cache
+.streamlit/
